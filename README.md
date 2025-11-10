@@ -105,3 +105,37 @@
 Интерактивное меню для тестирования всех функций
 Поддержка пользовательского ввода
 Демонстрация работы всех методов
+
+
+ТЕСТИРОВАНИЕ:
+
+Залание 1.1:
+<img width="368" height="332" alt="Снимок экрана 2025-11-10 в 08 09 31" src="https://github.com/user-attachments/assets/a3706ab7-39c5-4cd2-9058-086a3d448b81" />
+<img width="446" height="440" alt="Снимок экрана 2025-11-10 в 08 10 01" src="https://github.com/user-attachments/assets/6db85838-f462-4ca1-b664-bbebc5a96472" />
+
+Задание 1.2:
+<img width="458" height="267" alt="Снимок экрана 2025-11-10 в 08 10 52" src="https://github.com/user-attachments/assets/097ca5ae-6209-494d-a734-efd7dd3cce72" />
+<img width="590" height="528" alt="Снимок экрана 2025-11-10 в 08 11 57" src="https://github.com/user-attachments/assets/776df804-300d-4105-b513-a3244e6a7194" />
+
+Задание 2:
+<img width="1281" height="124" alt="Снимок экрана 2025-11-10 в 08 12 40" src="https://github.com/user-attachments/assets/b77b360b-e880-441a-a3a9-8a4c43204605" />
+
+Задача 3.1:
+<img width="332" height="217" alt="Снимок экрана 2025-11-10 в 08 17 38" src="https://github.com/user-attachments/assets/54158a0f-087f-4cae-bb14-5a94736b8368" />
+<img width="503" height="310" alt="Снимок экрана 2025-11-10 в 08 18 14" src="https://github.com/user-attachments/assets/02a9238e-a262-405a-aaa4-c2d97bd0fe75" />
+
+Задача 3.2:
+<img width="547" height="217" alt="Снимок экрана 2025-11-10 в 08 19 48" src="https://github.com/user-attachments/assets/1cb82fb7-a7e4-4dbf-a7b6-62625f38d384" />
+<img width="462" height="315" alt="Снимок экрана 2025-11-10 в 08 21 05" src="https://github.com/user-attachments/assets/d935d240-678d-47e7-ad04-5cb2fd406445" />
+<img width="438" height="342" alt="Снимок экрана 2025-11-10 в 08 22 37" src="https://github.com/user-attachments/assets/618f8f48-9664-4820-bd4f-ef0c422f1a44" />
+
+Задача 3.3:
+<img width="411" height="256" alt="Снимок экрана 2025-11-10 в 08 24 55" src="https://github.com/user-attachments/assets/d232a66a-43b5-4e2e-9723-77e10f5083ac" />
+<img width="470" height="442" alt="Снимок экрана 2025-11-10 в 08 25 39" src="https://github.com/user-attachments/assets/ec958eab-9219-4604-ad03-dc29ed3bb3c7" />
+<img width="504" height="310" alt="Снимок экрана 2025-11-10 в 08 26 13" src="https://github.com/user-attachments/assets/073ab19d-5ee8-4136-9f46-e0fdd66cb7a1" />
+
+Задача 3.4:
+<img width="455" height="214" alt="Снимок экрана 2025-11-10 в 08 27 38" src="https://github.com/user-attachments/assets/26051c89-a3c1-498a-b4b7-ffe8f0859ebc" />
+<img width="450" height="412" alt="Снимок экрана 2025-11-10 в 08 28 14" src="https://github.com/user-attachments/assets/eb65ac33-81c5-4685-831f-14d5533b0d0e" />
+<img width="478" height="349" alt="Снимок экрана 2025-11-10 в 08 28 46" src="https://github.com/user-attachments/assets/d54a0824-f9e0-4bd0-800f-31392b9e0421" />
+
